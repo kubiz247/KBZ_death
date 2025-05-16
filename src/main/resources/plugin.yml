@@ -1,0 +1,7 @@
+name: KBZ_death
+main: pl.kubiz247.kbzdeath.KBZ_death
+version: 1.0
+api-version: 1.21
+description: Customowe smierci by kubiz
+author: kubiz247
+depend: [LuckPerms]
