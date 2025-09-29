@@ -1,7 +1,18 @@
 name: KBZ_death
 main: pl.kubiz247.kbzdeath.KBZ_death
+api-version: 1.16
 version: 1.0
-api-version: 1.21
-description: Customowe smierci by kubiz
+description: Custom deaths by kubiz
 author: kubiz247
-depend: [LuckPerms]
+softdepend: [LuckPerms]
+commands:
+  kbzdeath:
+    description: KBZ_death admin commands
+    usage: /<command> reload
+permissions:
+  kbzdeath.*:
+    description: Full access to KBZ_death commands
+    default: op
+  kbzdeath.reload:
+    description: Allow reload of KBZ_death config
+    default: op
