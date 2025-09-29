@@ -1,0 +1,6 @@
+Copyright (c) 2025 kubiz
+
+All rights reserved.
+You are allowed to view and read the source code for personal and educational purposes only.
+You may not use, copy, modify, distribute, or create derivative works from this code in any form without explicit written permission from the author.
+For inquiries, contact: wspolpraca.kubiz@gmail.com | discord: kubiz.
